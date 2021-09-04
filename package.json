@@ -1,0 +1,25 @@
+{
+  "name": "web-dev__easy-starter--gulp",
+  "version": "1.0.0",
+  "description": "Простой стартовый шаблон для экспериментов и домашних заданий по веб разработке.",
+  "type": "module",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xelloworld/web-dev__easy-starter--gulp.git"
+  },
+  "keywords": [
+    "gulp",
+    "html",
+    "css",
+    "js",
+    "linters"
+  ],
+  "author": "Sergey",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/xelloworld/web-dev__easy-starter--gulp/issues"
+  },
+  "homepage": "https://github.com/xelloworld/web-dev__easy-starter--gulp#readme"
+}
