@@ -1,0 +1,13 @@
+# Вспомогательные директории и файлы
+node_modules
+
+# Директории и файлы операционных систем
+.directory
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Файлы редакторов
+.vscode
+*.sublime*
+.idea
