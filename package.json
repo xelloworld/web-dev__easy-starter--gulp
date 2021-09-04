@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/xelloworld/web-dev__easy-starter--gulp#readme",
   "devDependencies": {
+    "browser-sync": "^2.27.5",
     "gulp": "^4.0.2"
   }
 }
